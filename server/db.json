@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "name": "Manta Térmica",
+            "id": 123,
+            "description": "La mejor si te la dio jesus, en otro caso es solo una manta del chino",
+            "discount": true,
+            "price": 100,
+            "inStock": 50,
+            "category": "first",
+            "image": "manta.jpg"
+        },
+        {
+            "name": "Manta para el veranito",
+            "id": 23423,
+            "description": "La mejor si te la dio jesus, en otro caso es solo una manta del chino",
+            "discount": true,
+            "price": 100,
+            "inStock": 50,
+            "category": "first",
+            "image": "manta.jpg"
+        },
+        {
+            "name": "Manta solitaria",
+            "id": 23423,
+            "description": "La mejor si te la dio jesus, en otro caso es solo una manta del chino",
+            "discount": true,
+            "price": 100,
+            "inStock": 50,
+            "category": "first",
+            "image": "manta.jpg"
+        },
+        {
+            "name": "Manta testeada",
+            "id": 34543,
+            "description": "La mejor si te la dio jesus, en otro caso es solo una manta del chino, valida para llegar al 100% de test",
+            "discount": true,
+            "price": 100,
+            "inStock": 50,
+            "category": "first",
+            "image": "manta.jpg"
+        },
+        {
+            "name": "Ordenador irrasteable Linux",
+            "id": 456,
+            "description": "La mejor opción si te Han Robaoo",
+            "discount": true,
+            "price": 1004,
+            "inStock": 50,
+            "category": "second",
+            "image": "ordenador.png"
+        },
+        {
+            "name": "Ordenador (recuperado de Tapeando) Linux",
+            "id": 234432,
+            "description": "La mejor opción si te han salido 4 pantallas azules en tu hp",
+            "discount": true,
+            "price": 1000,
+            "inStock": 50,
+            "category": "second",
+            "image": "ordenador.png"
+        }
+    ]
+}
